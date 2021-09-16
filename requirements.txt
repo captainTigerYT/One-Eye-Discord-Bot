@@ -1,0 +1,7 @@
+git+https://github.com/Rapptz/discord.py@rewrite
+dotenv==0.19.0
+discord==1.7.3
+requests==2.26.0
+asyncio==3.4.3
+discord_slash==3.0.1
+pyjokes==0.6.0
