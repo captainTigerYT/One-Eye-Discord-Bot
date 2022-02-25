@@ -1,4 +1,4 @@
-#©2021 Raunak Manna 
+#2021 Raunak Manna 
 
 # bot.py
 import keep_alive
