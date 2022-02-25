@@ -1,0 +1,80 @@
+ WELCOME TO ONE EYE!!
+/----------------------------------------------------------------------------------------------------------------------------------\
+| One Eye is a feature rich Discord bot which enables people to roast and make fun of others. Itgives memes, jokes, roast          |
+| peoples, talks badly with everyone, and make Discording more fun.                                                                |
+\----------------------------------------------------------------------------------------------------------------------------------/
+
+                                                          FEATURES OF THE BOT
+/----------------------------------------------------------------------------------------------------------------------------------\
+|	*Uses human-frendly command                                                                                                    |
+|	*Gets memes from Reddit, a popular site                                                                                        |
+|	*Best for above 16 years                                                                                                       |
+|	*Uses slash commands which are not the original slash command for Discord (Scroll down to FaksSlash© section)                  |
+|	*Contains vast number of Easter eggs                                                                                           |
+|	*24/7 Customer care                                                                                                            |
+\----------------------------------------------------------------------------------------------------------------------------------/
+
+                                                             FakeSlash©
+/----------------------------------------------------------------------------------------------------------------------------------\
+| FakeSlash© is a new feature (beta) for One Eye which enables users to read generic informations of the bot. Discord support      |
+| an inbuilt command known as slash command. We have uograded this feature to a new level. You may not call it as a                |
+| 'slash command', but this commands are used with a '/'.                                                                          |
+\----------------------------------------------------------------------------------------------------------------------------------/                                                                                                                                                                                         
+____________________________________________________________________________________________________________________________________________
+|                                                              COMMANDS                                                                    |
+|    Hello One Eye                                                                                                                         |
+|        To hear a VERY VERY GOOD response!                                                                                                |
+|                                                                                                                                          |
+|    Help me One Eye                                                                                                                       |
+|        Typing this will show you what you are reading!                                                                                   |
+|                                                                                                                                          |
+|    Who are you?                                                                                                                          |
+|        If you want to know who the hell I am then you must type this.                                                                    |
+|                                                                                                                                          |
+|    Tell me some news                                                                                                                     |
+|        To see some half-true...half-false news                                                                                           |
+|                                                                                                                                          |
+|    Show me some memes                                                                                                                    |
+|        To see some real memes.                                                                                                           |
+|                                                                                                                                          |
+|    How are you?                                                                                                                          |
+|        If you're dying to know how I am, then you must type this.                                                                        |
+|                                                                                                                                          |
+|    Roast <anyone>                                                                                                                        |
+|        This is my favorite. I wont say anythin' 'bout it.                                                                                |
+|                                                                                                                                          |
+|    Show me quote of the minute.                                                                                                          |
+|        If you are a little literate, you should type this.                                                                               |
+|                                                                                                                                          |
+|    Crack a joke                                                                                                                          |
+|        Type to hear jokes                                                                                                                |
+|                                                                                                                                          |
+|    Show infection status                                                                                                                 |
+|        Wan't to know how many servers I have infected??                                                                                  |
+|                                                                                                                                          |
+|    Share One Eye                                                                                                                         |
+|        Type this and copy everything I reply and share with everyone. That's my order!!                                                  |
+|                                                                                                                                          |
+|    Show One Eye's Blog                                                                                                                   |
+|        Type to see my infected blog                                                                                                      |
+|                                                                                                                                          |
+____________________________________________________________________________________________________________________________________________
+
+____________________________________________________________________________________________________________________________________________
+|                                                          FakeSlash© COMMANDS                                                             |
+|    /FakeSlash help                                                                                                                       |
+|        Shows help box                                                                                                                    |
+|                                                                                                                                          |
+|    /credits
+|        Shows credits.
+|    
+|    /version
+|       Shows version of the bot.
+|    
+|    /FakeSlash
+|        Shows information about FakeSlash©.
+|    
+|    /Python Version
+|        Shows in which Python the bot is running.      
+|
+____________________________________________________________________________________________________________________________________                                   
